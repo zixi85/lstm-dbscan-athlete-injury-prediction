@@ -1,11 +1,8 @@
-README: Injury Prediction and Training Pattern Analysis in Elite Athletes
-=======================================================================
-
 Sports injuries are influenced by complex interactions between training load, recovery, physical readiness, and wellness. This project shows how machine learning can help uncover early warning signs from athlete monitoring data and support more proactive training management.
 Rather than only predicting whether an injury may occur, this work also explores **why certain risk patterns emerge**, making the analysis more useful for coaches and sports scientists.
 Using daily wellness questionnaires, training logs, strength records, and jump performance data from a Dutch national volleyball player, I built:
 
-## Project Highlights
+## ✨ Project Highlights
 - an **LSTM-based time-series model** for injury prediction from multivariate daily athlete data
 - a **DBSCAN clustering pipeline** to identify high-risk training patterns
 - Identified a **high-risk cluster with 85.7% injury rate**
@@ -13,7 +10,7 @@ Using daily wellness questionnaires, training logs, strength records, and jump p
 
 The project demonstrates an end-to-end sports data science workflow, from **data cleaning and feature engineering** to **predictive modeling, clustering, and interpretation**.
 
-## Data Availability
+## 🔒 Data Availability
 
 The original athlete monitoring data used in this project cannot be publicly released for confidentiality reasons.
 
@@ -77,7 +74,7 @@ How to Run
    - `python DBSCAN.py`
    - `python LSTM3.py`
 
-## Note
+> **Note**
 This project was developed for academic purposes in a Sports Data Science.  
 To protect confidential athlete information, the original dataset is not publicly available.  
 The repository is shared as a methodological example of how similar injury prediction and training pattern analysis can be implemented in practice.
