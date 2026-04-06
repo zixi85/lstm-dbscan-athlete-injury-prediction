@@ -1,0 +1,8 @@
+Python ≥ 3.10
+numpy==1.26.4
+pandas==2.2.2
+matplotlib
+seaborn
+scikit-learn
+imbalanced-learn
+tensorflow==2.16.1
