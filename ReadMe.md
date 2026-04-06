@@ -1,3 +1,4 @@
+## ReadMe
 Sports injuries are influenced by complex interactions between training load, recovery, physical readiness, and wellness. This project shows how machine learning can help uncover early warning signs from athlete monitoring data and support more proactive training management.
 Rather than only predicting whether an injury may occur, this work also explores **why certain risk patterns emerge**, making the analysis more useful for coaches and sports scientists.
 Using daily wellness questionnaires, training logs, strength records, and jump performance data from a Dutch national volleyball player, I built:
