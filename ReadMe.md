@@ -2,7 +2,7 @@ Sports injuries are influenced by complex interactions between training load, re
 Rather than only predicting whether an injury may occur, this work also explores **why certain risk patterns emerge**, making the analysis more useful for coaches and sports scientists.
 Using daily wellness questionnaires, training logs, strength records, and jump performance data from a Dutch national volleyball player, I built:
 
-## ✨ Project Highlights
+## Project Highlights
 - an **LSTM-based time-series model** for injury prediction from multivariate daily athlete data
 - a **DBSCAN clustering pipeline** to identify high-risk training patterns
 - Identified a **high-risk cluster with 85.7% injury rate**
